@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\change_header\change_header\bin\Debug\change_header.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\change_header\change_header\obj\Debug\change_header.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\change_header\change_header\bin\Debug\change_header.exe
+c:\users\admin\documents\visual studio 2015\Projects\change_header\change_header\bin\Debug\change_header.pdb
+c:\users\admin\documents\visual studio 2015\Projects\change_header\change_header\obj\Debug\change_header.exe
+c:\users\admin\documents\visual studio 2015\Projects\change_header\change_header\obj\Debug\change_header.pdb

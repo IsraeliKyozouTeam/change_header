@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <headers>
+    <header existingHeader ="ColA"  newHeader="ColAA" />
+    <header existingHeader = "ColC"  newHeader="ColCC" />
+    <header existingHeader = "ColB"  newHeader="ColBB" />
+  </headers>
+</config>
